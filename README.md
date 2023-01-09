@@ -12,19 +12,19 @@
    R888" `   ^"F     m888N= 888> "888*""888"    ""   'Y"     R888" 
     ""                `Y"   888   ^Y"   ^Y'                   ""   
                            J88"                                    
-                           @%         since 1996 or thereabouts
-                         :" 
+                           @%     misguidedly releasing things
+                         :"           since 1996 or thereabouts
 
                             presents
           ░▒▓       G I T H U B  P R O F I L E       ▓▒░
 
      ╔══════════════════════════╤═══════════════════════════╗
-     ║ Supplier : Cypherfork    │ Release Date : 090921     ║
+     ║ Supplier : XTR4CY BANG   │ Release Date : 090123     ║
      ╟──────────────────────────┼───────────────────────────╢
-     ║ Cracker : The Dark Crab  │ Protection : CD Check     ║
+     ║ Cracker  : HorseCarnvial │ Protection : CD Check     ║
      ╟──────────────────────────┼───────────────────────────╢
-     ║ Packager : Nexus Jones   │ Game Developer            ║
+     ║ Packager : Oblong Terry  │ Pragmatic Generalism DLC  ║
      ╟──────────────────────────┼───────────────────────────╢
-     ║ Languages : C++, C#, Go  │ Coding Since Forever      ║
+     ║ Languages : C++, C#, Go  │ Game Developer etc.       ║
      ╚══════════════════════════╧═══════════════════════════╝
 ```
